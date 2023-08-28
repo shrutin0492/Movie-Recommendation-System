@@ -2,15 +2,6 @@
 
 This repository contains a Movie Recommendation System implemented using Python and the Pandas library.
 
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Implementation](#implementation)
-- [Results](#results)
-- [Next Steps](#next-steps)
-- [Dataset](#dataset)
-- [Google Colab Notebook](movie_recommendation_system.ipynb)
-
 ## Introduction
 The Movie Recommendation System is designed to provide personalized movie recommendations to users based on their historical preferences. This is achieved by analyzing user-movie interaction data and identifying patterns in their preferences.
 
