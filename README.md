@@ -9,4 +9,4 @@ The Movie Recommendation System is designed to provide personalized movie recomm
 For a detailed walkthrough of the implementation, you can refer to the [Google Colab notebook](https://colab.research.google.com/github/shrutin567/Movie-Recommendation-System/blob/main/movie_recommendation_system.ipynb). This notebook provides a step-by-step guide to the code and explanations for each part of the recommendation system.
 
 ## Dataset
-The dataset used for this project can be downloaded from the [data folder](data/) in the repository. It is provided in CSV format and contains user-movie interaction data that is essential for training and evaluating the recommendation system.
+The dataset used for this project can be downloaded from the [data folder](data/data set) in the repository ([link to the dataset]((https://files.grouplens.org/datasets/movielens/ml-25m.zip))). It is provided in CSV format and contains user-movie interaction data.
